@@ -1,5 +1,5 @@
 streamlit
-opencv-python
-numpy
-scikit-learn
 Pillow
+numpy
+opencv-python
+threadpoolctl>=3.1
