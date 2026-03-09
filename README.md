@@ -48,7 +48,7 @@ A computer vision web app that analyses your selfie and recommends your closest 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/foundation-shade-matcher.git
+git clone https://github.com/elise-hadidi/foundation-shade-matcher.git
 cd foundation-shade-matcher
 
 # 2. Install dependencies
