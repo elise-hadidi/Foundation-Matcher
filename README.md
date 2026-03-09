@@ -7,7 +7,7 @@ A computer vision web app that analyses your selfie and recommends your closest 
 
 ---
 
-##How It Works
+## How It Works
 
 1. **Upload a selfie** — drop any JPG or PNG photo
 2. **Face detection** — OpenCV's Haar cascade locates your face and draws a sampling oval over the cheek/forehead region, excluding hair and background
