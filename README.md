@@ -1,5 +1,7 @@
 # AI Foundation Shade Matcher
 
+Live Demo: https://foundation-matchee-26qwxhdldgdxbpniawgmcg.streamlit.app/
+
 A computer vision web app that analyses your selfie and recommends your closest **Fenty Beauty foundation shade** — built with Python, OpenCV, and Streamlit.
 
 <img width="1235" height="690" alt="Screenshot 2026-03-09 at 3 16 48 PM" src="https://github.com/user-attachments/assets/e5d2e93f-8297-4ea5-a894-2ee106c10af5" />
