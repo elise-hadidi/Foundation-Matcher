@@ -78,7 +78,7 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 ## Project Structure
 
 ```
-foundation-shade-matcher/
+Foundation-Matcher/
 ├── app.py              # Main Streamlit app
 ├── requirements.txt    # Python dependencies
 └── README.md
